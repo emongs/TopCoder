@@ -58,7 +58,7 @@ public class NumberMagicEasy {
 					result = 16;
 			}
 		
-		System.out.println("Á¤´äÀº ¹Ù·Î!! -> " + result);
+		System.out.println("ì •ë‹µì€ ë°”ë¡œ!!! -> " + result);
 		System.out.println("-----------------------------------");
 		return result;
 		
